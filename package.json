@@ -1,0 +1,17 @@
+{
+  "name": "@p_a_u_/activity-7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "toggle.html",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
